@@ -1,0 +1,30 @@
+---------------------------5:16 AM 3/31/2021---------------------------
+
+
+
+Hmmm... how do I know if the server is up, without logging into it. Because thats what I need to do right now.... Oh, I guess I could anydesk into it. that should work I guess.
+
+Shiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiit.... well thats not gonna work... at least for the bot... maybe ill be able to figure it out... lets see if it comes up when I log in at least.
+
+Thats it, no more discord update messages at night. Ive had it. You can get a screenshot, or ill sync this file to google drive and make it a link for you or something. or pastebin, or github, something, im going to make something work, that allows you to read a message that is over 2000 characters... I will spend the time to find a solution to this problem. You know what, screw it. We are going to date them. Its going to be a rolling file. And ill find a way to get it to you. Thats a new goal for tonight... and finish the server stuff im working on, and start new show, at least 2 episodes of new show.
+
+okay, server restart test, lets see what happens here.. Does my music bot come back up? also just got the email for teamspeak, guess I took my time signing into the server.... whoooops ¯\_(ツ)_/¯
+
+Music bot did not start... why didnt it startIts in the services as not started... but why.
+
+hmmmmmmmmmmm why you no work
+
+Okay, music bot doesnt work... guess ill have to get to that one another day and figure out how to make jar files work, lets check up on teamspeak
+
+also lets see if anyone was there. they should have rejoined.... I think.... Okay, says noone was here.
+
+yep, noone was there, saved
+
+Okay, teamspeak was an easy one actually. Lets see if it works for real. Unlike the dumb music bot.
+
+Server really is getting a lot of restarts today.
+I just realized that my primary DNS is a thing run by the server.... I should really have a secondary... that isnt run on the server... thats not a fun thing to have die on me... have a secondary DNS computer.... see if you like that.
+
+Oh hell yeah, teamspeak works. Comes up automatically without having to login to the server. Thats nice to know. Convinient for sure.
+
+Okay, onto the next task. Figuring out a way for you to get your dumb text from me. Because obviously I type too much to you now.
